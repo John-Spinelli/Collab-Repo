@@ -19,6 +19,6 @@ Your task is to create a new file, where the file name follows the format `A_B_C
 
 **_Save, add, commit, and push_** the files to your branch.
 
-Finally, create a **_pull request_** for your branch. Assign me (Johnathan-Spinelli) as a reviewer for your pull request.
+Finally, create a **_pull request_** for your branch. Assign me (John-Spinelli) as a reviewer for your pull request.
 
 Once everyone has completed this task, we will have a giant repository full of files through this collaborative exercise.
